@@ -197,7 +197,7 @@ printf("\nSimilarly, the local variables of a monitor can be accessed by only th
                       printf("\n\n\tBy the help of these three functions we take care the ");
                       printf("\nintegration and synchronization of different process");
                       printf("\n\n\t with the use of MONITOR, there will be no waiting of ");
-                      printf("\n any process outside the CSE-301");
+                     
                       printf("\n\nby using the monitors there will be complete");
                       printf("\nsecurity of the token\n\n");
                      system("pause");
